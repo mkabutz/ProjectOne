@@ -1,6 +1,6 @@
 package practice1;
 
-public class infiniteloop {
+public class InfinteLoop {
 
     public static void main(String[] args) {
 
@@ -12,3 +12,5 @@ public class infiniteloop {
         }
     }
 }
+
+// not infinite, but will take a really long time. Goes from 1 to -2Billion back to 2Billion and then stops
